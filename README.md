@@ -152,7 +152,7 @@ source <(go run main.go completion)
 
 ---
 
-## 🚀 実践例：GitHub リポジトリ情報取得 CLI
+## 🚀 例：GitHub リポジトリ情報取得 CLI
 プロジェクトの作成：
 ```sh
 cobra-cli init ghcli
